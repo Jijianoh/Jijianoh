@@ -16,8 +16,8 @@ Did you know I'm navigating my way through the first year at BYU-Idaho? Every li
 - "Automate the Boring Stuff with Python" by Al Sweigart
 
 ## Let's Connect 🤝
-- [LinkedIn](www.linkedin.com/in/dieketseng-motsetse-20a574223)
-- 
+- [LinkedIn] www.linkedin.com/in/dieketseng-motsetse-20a574223
+  
 
 ## Open for Collaboration 🎯
 I'm always up for collaborations and discussions with fellow learners and developers. If you're into coding adventures or have tips for a Python newbie, don't hesitate to drop a message!
